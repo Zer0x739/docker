@@ -1,6 +1,6 @@
 NodeJS nejde na "workstation" nainstalovat protože prý nemá pravá. Nevidím žádnou portable verzi Dockeru. Má "workstation" je neskutečně pomalá, takže se vše instaluje moc dlouho. Tady je alespoň jak udělat webovou stránku se jménem: 
 
-https://github.com/Zer0x739/docker/blob/9e79a9c46b7a33a1b9052c63729c61060bc253ab/index.js#L1
+https://github.com/Zer0x739/docker/blob/dc299eae1813e669916a3aeeff7ca494902f0026/index.js#L7
 
 Tady je kód pro vytvoření 'Dockerfile' v Dockeru:
 
